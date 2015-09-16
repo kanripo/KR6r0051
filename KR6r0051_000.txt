@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 付法藏因緣傳
+#+DATE: 2015-08-30 22:15:25.821778
+#+PROPERTY: JUAN 0
